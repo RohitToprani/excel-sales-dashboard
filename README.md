@@ -1,24 +1,17 @@
-Excel Sales Dashboard
+Key Insights
 
-Project Overview
-This project is an interactive Excel dashboard created to analyze sales performance.
+- Pune generated highest sales
 
-Tools Used
-Microsoft Excel
-Pivot Tables
-Charts
-Slicers
+- Laptops are top-selling product
 
-Key Features
-Sales by City
-Sales by Product
-Orders by Status
-KPI Metrics (Total Sales, Orders, Average Value)
+- Majority orders are delivered
 
-File
-excel-sales-dashboard.xlsx
+  Business Use Case
 
-Insights
-Identified top-performing cities
-Analyzed product-level sales
-Filtered data using slicers for better understanding
+This dashboard helps businesses:
+
+- Track sales performance
+
+- Identify top products
+
+- Analyze order status quickly
