@@ -15,3 +15,4 @@ This dashboard helps businesses:
 - Identify top products
 
 - Analyze order status quickly
+[dashboard]dashboard_sales.png
